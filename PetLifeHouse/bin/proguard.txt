@@ -1,0 +1,258 @@
+# view AndroidManifest.xml #generated:109
+-keep class cn.jpush.android.service.AlarmReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:66
+-keep class cn.jpush.android.service.DownloadService { <init>(...); }
+
+# view AndroidManifest.xml #generated:88
+-keep class cn.jpush.android.service.PushReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:74
+-keep class cn.jpush.android.service.PushService { <init>(...); }
+
+# view AndroidManifest.xml #generated:55
+-keep class cn.jpush.android.ui.PushActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:133
+-keep class cn.sharesdk.framework.ShareSDKUIShell { <init>(...); }
+
+# view AndroidManifest.xml #generated:128
+-keep class com.alipay.android.app.sdk.WapPayActivity { <init>(...); }
+
+# view res/layout/map_pattern.xml #generated:46
+# view res/layout/route_map.xml #generated:8
+-keep class com.amap.api.maps.MapView { <init>(...); }
+
+# view AndroidManifest.xml #generated:331
+-keep class com.boqii.petlifehouse.activities.AliWebLoginActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:305
+-keep class com.boqii.petlifehouse.activities.AliWebPayActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:312
+-keep class com.boqii.petlifehouse.activities.CommitOrderActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:317
+-keep class com.boqii.petlifehouse.activities.CouponDetailActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:322
+-keep class com.boqii.petlifehouse.activities.FindPasswordActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:326
+-keep class com.boqii.petlifehouse.activities.LaunchingActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:316
+-keep class com.boqii.petlifehouse.activities.ListActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:121
+-keep class com.boqii.petlifehouse.activities.LoginActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:111
+-keep class com.boqii.petlifehouse.activities.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:123
+-keep class com.boqii.petlifehouse.activities.MapPatternActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:125
+-keep class com.boqii.petlifehouse.activities.MapRouteActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:311
+-keep class com.boqii.petlifehouse.activities.MerchantDetailActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:321
+-keep class com.boqii.petlifehouse.activities.MyCollectionActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:318
+-keep class com.boqii.petlifehouse.activities.MyCouponActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:319
+-keep class com.boqii.petlifehouse.activities.MyOrderActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:320
+-keep class com.boqii.petlifehouse.activities.MyTicketActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:315
+-keep class com.boqii.petlifehouse.activities.MyTicketDetailActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:163
+-keep class com.boqii.petlifehouse.activities.PayDemoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:313
+-keep class com.boqii.petlifehouse.activities.PayOrderActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:127
+-keep class com.boqii.petlifehouse.activities.ProtocolsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:325
+-keep class com.boqii.petlifehouse.activities.RecommendActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:126
+-keep class com.boqii.petlifehouse.activities.RegisterActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:124
+-keep class com.boqii.petlifehouse.activities.RouteActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:307
+-keep class com.boqii.petlifehouse.activities.SearchActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:122
+-keep class com.boqii.petlifehouse.activities.ShareWeiboActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:308
+-keep class com.boqii.petlifehouse.activities.TicketDetailActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:323
+-keep class com.boqii.petlifehouse.activities.UpdatePasswordActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:314
+-keep class com.boqii.petlifehouse.activities.UserInfoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:157
+-keep class com.boqii.petlifehouse.activities.WXEntryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:309
+-keep class com.boqii.petlifehouse.activities.WebViewActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:324
+-keep class com.boqii.petlifehouse.activities.WebViewBuyActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:39
+-keep class com.boqii.petlifehouse.baseactivities.BaseApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:310
+-keep class com.boqii.petlifehouse.demo.CategoryDialogViewTest { <init>(...); }
+
+# view res/layout/home.xml #generated:201
+# view res/layout/ticket_detail.xml #generated:76
+-keep class com.boqii.petlifehouse.widgets.AdGallery { <init>(...); }
+
+# view res/layout/category_dialog_view.xml #generated:2
+-keep class com.boqii.petlifehouse.widgets.CategoryDialogView { <init>(...); }
+
+# view res/layout/category_list_merchant_dialog.xml #generated:2
+-keep class com.boqii.petlifehouse.widgets.CategoryListMerchantDialog { <init>(...); }
+
+# view res/layout/category_merchant_dialog.xml #generated:2
+-keep class com.boqii.petlifehouse.widgets.CategoryMerchantDialog { <init>(...); }
+
+# view res/layout/ticket_detail.xml #generated:58
+-keep class com.boqii.petlifehouse.widgets.CustomScrollView { <init>(...); }
+
+# view res/layout/category_list_merchant_dialog.xml #generated:72
+-keep class com.boqii.petlifehouse.widgets.LetterSideBar { <init>(...); }
+
+# view res/layout/home_item.xml #generated:48
+# view res/layout/layout_ticket_status.xml #generated:19
+# view res/layout/mycollection_item.xml #generated:54
+# view res/layout/ticket_item.xml #generated:74
+-keep class com.boqii.petlifehouse.widgets.LineTextView { <init>(...); }
+
+# view res/layout/home_item.xml #generated:18
+# view res/layout/merchant_detail.xml #generated:76
+# view res/layout/merchant_item.xml #generated:18
+# view res/layout/mycollection_item.xml #generated:13
+# view res/layout/myorder_item.xml #generated:13
+# view res/layout/myticket_item.xml #generated:13
+# view res/layout/myticketdetail.xml #generated:63
+# view res/layout/ticket_item.xml #generated:18
+-keep class com.boqii.petlifehouse.widgets.NetImageView { <init>(...); }
+
+# view res/layout/fragment_list.xml #generated:13
+# view res/layout/fragment_list_merchant.xml #generated:13
+# view res/layout/fragment_near_merchant.xml #generated:12
+# view res/layout/fragment_near_ticket.xml #generated:13
+# view res/layout/mycollection.xml #generated:43
+-keep class com.boqii.petlifehouse.widgets.XListView { <init>(...); }
+
+# view AndroidManifest.xml #generated:211
+-keep class com.unionpay.upomp.yidatec.bankcardmanage.BankCardActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:235
+-keep class com.unionpay.upomp.yidatec.bankcardmanage.balancequery.BalanceQueryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:241
+-keep class com.unionpay.upomp.yidatec.bankcardmanage.balancequery.BalanceQueryResultActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:217
+-keep class com.unionpay.upomp.yidatec.bankcardmanage.bindcard.BankCardBindActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:223
+-keep class com.unionpay.upomp.yidatec.bankcardmanage.bindcard.BankCardBindResultActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:229
+-keep class com.unionpay.upomp.yidatec.bankcardmanage.cardinfo.BankCardInfoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:200
+-keep class com.unionpay.upomp.yidatec.transactionmanage.DealsResultActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:165
+-keep class com.unionpay.upomp.yidatec.transactionmanage.SplashActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:176
+-keep class com.unionpay.upomp.yidatec.transactionmanage.certification.CardActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:170
+-keep class com.unionpay.upomp.yidatec.transactionmanage.certification.CertificationActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:194
+-keep class com.unionpay.upomp.yidatec.transactionmanage.fast.BankDialog { <init>(...); }
+
+# view AndroidManifest.xml #generated:182
+-keep class com.unionpay.upomp.yidatec.transactionmanage.fast.FastFristActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:188
+-keep class com.unionpay.upomp.yidatec.transactionmanage.fast.FastSecondActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:265
+-keep class com.unionpay.upomp.yidatec.transactionmanage.storedcard.StoredValueCardPaymentActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:253
+-keep class com.unionpay.upomp.yidatec.usermanage.getsecuritquestion.GetSecuritQuestionActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:283
+-keep class com.unionpay.upomp.yidatec.usermanage.login.LoginActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:300
+-keep class com.unionpay.upomp.yidatec.usermanage.myinfo.MyInfoActivityActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:295
+-keep class com.unionpay.upomp.yidatec.usermanage.register.CheckProtocalActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:289
+-keep class com.unionpay.upomp.yidatec.usermanage.register.RegisterActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:259
+-keep class com.unionpay.upomp.yidatec.usermanage.retpasswd.RetPassword2Activity { <init>(...); }
+
+# view AndroidManifest.xml #generated:247
+-keep class com.unionpay.upomp.yidatec.usermanage.updatemobilenum.PhoneNumChangeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:205
+-keep class com.unionpay.upomp.yidatec.usermanage.updatepasswd.PasswordChangeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:277
+-keep class com.unionpay.upomp.yidatec.util.Util1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:271
+-keep class com.unionpay.upomp.yidatec.util.Util2 { <init>(...); }
+
+# onClick res/layout/map_a_popup.xml #generated:12
+# onClick res/layout/map_a_popup.xml #generated:23
+# onClick res/layout/map_pattern.xml #generated:32
+# onClick res/layout/map_popup_call.xml #generated:18
+# onClick res/layout/map_popup_call.xml #generated:27
+# onClick res/layout/map_popup_main.xml #generated:36
+# onClick res/layout/map_popup_main.xml #generated:44
+# onClick res/layout/map_popup_main.xml #generated:54
+# onClick res/layout/map_route.xml #generated:13
+# onClick res/layout/map_route.xml #generated:23
+# onClick res/layout/map_route.xml #generated:32
+# onClick res/layout/map_route_list.xml #generated:14
+# onClick res/layout/map_route_list.xml #generated:24
+# onClick res/layout/map_route_list.xml #generated:33
+# onClick res/layout/map_routelists.xml #generated:14
+# onClick res/layout/map_routelists.xml #generated:29
+# onClick res/layout/map_routelists.xml #generated:38
+# onClick res/layout/share_weibo_layout.xml #generated:31
+-keepclassmembers class * { *** onAction(...); }
+
